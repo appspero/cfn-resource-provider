@@ -4,9 +4,9 @@ import (
 	"errors"
 	"fmt"
 
+	"github.com/appspero/cfn-resource-provider/iam-samlprovider/cmd/resource"
 	"github.com/aws-cloudformation/cloudformation-cli-go-plugin/cfn"
 	"github.com/aws-cloudformation/cloudformation-cli-go-plugin/cfn/handler"
-	"github.com/appspero/cfn-resource-provider/iam-samlprovider/cmd/resource"
 )
 
 /*
